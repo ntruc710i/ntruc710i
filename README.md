@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <!-- Introduction -->
 <h2 align="center">Hi 👋, I'm Truc</h2>
 <h4 align="center">A passionate programmer with a knack for creativity and problem-solving. I am particularly interested in mobile app development and artificial intelligence.</h4>
+
 <!-- Skills -->
 ## My Skills
 
