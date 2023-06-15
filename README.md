@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 <!-- Skills -->
 ## My Skills
 
-- 🌱 Programming:  PHP, Java, Python, JavaScript, C# .Net   |
-- 👯 Frameworks: ReactJS, Laravel, Xamarin Forms            |
-- 📫 Databases: MySQL, MongoDB                              |
-- ⚡ Development Tools: Git, Visual Studio Code             |
+- 🌱 Programming:  PHP, Java, Python, JavaScript, C# .Net
+- 👯 Frameworks: ReactJS, Laravel, Xamarin Forms
+- 📫 Databases: MySQL, MongoDB
+- ⚡ Development Tools: Git, Visual Studio Code
 
-
+| ------------------------| ------------------------|
+| Nội dung phần 1         | Nội dung phần 2         |
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntruc710i&layout=compact)
 <!-- Contact -->
 ## Contact
