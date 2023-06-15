@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 Databases: MySQL, MongoDB
 - ⚡ Development Tools: Git, Visual Studio Code
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntruc710i&layout=compact)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntruc710i&layout=compact)
 <!-- Contact -->
 ## Contact
 
