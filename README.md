@@ -20,24 +20,12 @@ Here are some ideas to get you started:
 <!-- Skills -->
 ## My Skills
 
-<table>
-  <tbody>
-    <tr>
-      <td>  
-            - 🌱 Programming:  PHP, Java, Python, JavaScript, C# .Net
-            - 👯 Frameworks: ReactJS, Laravel, Xamarin Forms 
-            - 📫 Databases: MySQL, MongoDB
-            - ⚡ Development Tools: Git, Visual Studio Code
-      </td>
-      <td> 
-              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntruc710i&layout=compact)
-      </td>
-    </tr>
-  </tbody>
-</table>
+- 🌱 Programming:  PHP, Java, Python, JavaScript, C# .Net
+- 👯 Frameworks: ReactJS, Laravel, Xamarin Forms 
+- 📫 Databases: MySQL, MongoDB
+- ⚡ Development Tools: Git, Visual Studio Code
 
-
-   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntruc710i&layout=compact)
 <!-- Contact -->
 ## Contact
 
