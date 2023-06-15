@@ -23,7 +23,7 @@ I'm Truc, a passionate programmer with a knack for creativity and problem-solvin
 <!-- Skills -->
 ## Skills
 
-- 🌱 Programming: Java, Python, JavaScript, C# .Net, PHP
+- 🌱 Programming:  PHP, Java, Python, JavaScript, C# .Net
 - 👯 Frameworks: ReactJS, Laravel, Xamarin Forms
 - 📫 Databases: MySQL, MongoDB
 - ⚡ Development Tools: Git, Visual Studio Code
@@ -37,7 +37,6 @@ If you would like to get in touch or learn more about me, feel free to reach out
 
 - Email: trucle882@gmail.com
 - Telegram: [@truc710i](https://t.me/truc710i)
-- 
 <!-- Footer -->
 <p align="center">
     Thank you for visiting!
