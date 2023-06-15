@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 ![Banner](https://example.com/banner.png)
 
 <!-- Introduction -->
-# Hello there! 👋
-
-I'm Truc, a passionate programmer with a knack for creativity and problem-solving. I am particularly interested in mobile app development and artificial intelligence.
-
+<h1 align="center">Hi 👋, I'm Truc</h1>
+<h3 align="center">A passionate programmer with a knack for creativity and problem-solving. I am particularly interested in mobile app development and artificial intelligence.</h3>
 <!-- Skills -->
 ## Skills
 
