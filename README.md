@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- Introduction -->
 # Hello there! 👋
 
-I'm John Doe, a passionate programmer with a knack for creativity and problem-solving. I am particularly interested in mobile app development and artificial intelligence.
+I'm Truc, a passionate programmer with a knack for creativity and problem-solving. I am particularly interested in mobile app development and artificial intelligence.
 
 <!-- Skills -->
 ## Skills
@@ -27,6 +27,8 @@ I'm John Doe, a passionate programmer with a knack for creativity and problem-so
 - 👯 Frameworks: ReactJS, Laravel, Xamarin Forms
 - 📫 Databases: MySQL, MongoDB
 - ⚡ Development Tools: Git, Visual Studio Code
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntruc710i&layout=compact)
 <!-- Contact -->
 ## Contact
